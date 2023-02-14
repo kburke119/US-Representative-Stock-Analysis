@@ -47,7 +47,6 @@
   - We were able to visualize the party distribution, number of stock purchases, the sector, the industry, and top stock purchases for each representative. 
   - This can be used at the start of each analysis to get a better understanding of each representative’s trades to then dive deeper.
 - What did we learn from the deeper dive?
-  - 
 - Limitations of the Dataset:
   - The dataset did not have the exact purchase/sell price for the US representative’s trades. If we had this information we could analyze the % increase and decrease of each trade. 
   - The purchase/sell price could also allow us to determine the gains/losses for each representative.
