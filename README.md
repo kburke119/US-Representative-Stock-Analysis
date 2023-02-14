@@ -5,7 +5,7 @@
 - [Presentation](#presentation)
 - [About](#about)
 - [Summary](#summary)
-- [Conslusions](#conclusions)
+- [Conclusions](#conclusions)
 
 ## Presentation
 [Prensentation Link](https://docs.google.com/presentation/d/1566EIw72dbnHjdzGT4L8z6EjFDt7xXnrDXf92rDtq6I/edit#slide=id.g207732c85b3_0_87)
@@ -32,7 +32,7 @@
 
 ![2](https://user-images.githubusercontent.com/10196762/218613648-3b2f56be-cdca-4e69-8708-5bcadc0c7364.jpg)
 
-- Reprentative State and Amount of Purchases Mapped in US:
+- Representative State and Amount of Purchases Mapped in US:
 
 ![4](https://user-images.githubusercontent.com/10196762/218613709-2a2291b5-ddf6-4f87-bed5-4ee18600ed5e.png)
 
