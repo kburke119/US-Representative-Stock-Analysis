@@ -51,5 +51,3 @@
   - The dataset did not have the exact purchase/sell price for the US representative’s trades. If we had this information we could analyze the % increase and decrease of each trade. 
   - The purchase/sell price could also allow us to determine the gains/losses for each representative.
   - 14% of the stocks came through empty within the data (49 total).
-
-
