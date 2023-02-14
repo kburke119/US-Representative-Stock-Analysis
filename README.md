@@ -20,7 +20,7 @@
   - Is there a correlation between membership on a particular committee and stock trades in related companies?
   - Does any major buying or selling take place right before significant percent changes in stock price?
 - How do we remain unbiased in our analysis?
-- Utilized the Python random function to select 6 random US Representatives. Each time the we run the code it continues to output these at random. 
+  - Utilized the Python random function to select 6 random US Representatives. Each time the we run the code it continues to output these at random. 
   - Due to the makeup of the House, it will not always give an equal number of major party representatives.
 
 ## Summary
