@@ -25,7 +25,21 @@
   - Due to the makeup of the House, it will not always give an equal number of major party representatives.
 
 ## Summary
+- Party Distribution of Random Representatives:
 
+![1](https://user-images.githubusercontent.com/10196762/218613593-067547ae-191f-4b24-bbc4-cb0ab9b6c815.jpg)
+
+- Sectors Purchased by Random Representatives:
+
+![2](https://user-images.githubusercontent.com/10196762/218613648-3b2f56be-cdca-4e69-8708-5bcadc0c7364.jpg)
+
+- Reprentative State and Amount of Purchases Mapped in US:
+
+![4](https://user-images.githubusercontent.com/10196762/218613709-2a2291b5-ddf6-4f87-bed5-4ee18600ed5e.png)
+
+- Linear Regression of Stock Purchases:
+
+![3](https://user-images.githubusercontent.com/10196762/218613742-94e291a5-460a-44d8-b011-fcd9300b5d02.png)
 
 ## Conclusions
 - How do we remain unbiased? 
