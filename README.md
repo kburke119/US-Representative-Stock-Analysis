@@ -15,7 +15,6 @@
   - https://housestockwatcher.com/api
   - https://www.capitoltrades.com/committees - initially tried pulling our data from here but realized we needed to learn sophisticated web scraping techniques so we pivoted.
 - Can we merge stock price data by utilizing the yfinance library to determine any trends throughout the year? 
-  - yfinance is a popular open source library to access the financial data available on Yahoo Finance
 - How many stock purchases did each of these representatives make and can we filter these by industry, sector, ticker, and party?
 - Can we find any evidence of insider trading?
   - Is there a correlation between membership on a particular committee and stock trades in related companies?
