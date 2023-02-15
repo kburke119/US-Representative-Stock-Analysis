@@ -1,4 +1,4 @@
-# 2021-2022 US Representative Stock Purchase Analysis
+# US Representative Stock Purchase Analysis
 
 ## Table of Contents
 
